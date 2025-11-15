@@ -1,0 +1,70 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "Lush green farm field for the login page background.",
+      "imageUrl": "https://images.unsplash.com/photo-1443632826930-7e5bc4aa7fa0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxmYXJtJTIwc3Vuc2V0fGVufDB8fHx8MTc2MTkwMzM1Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "farm sunset"
+    },
+    {
+      "id": "hero-background-2",
+      "description": "Smart farming concept with digital overlays.",
+      "imageUrl": "https://images.unsplash.com/photo-1518994603110-1912b3272afd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzbWFydCUyMGZhcm18ZW58MHx8fHwxNzYxOTAzMzUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "smart farm"
+    },
+    {
+      "id": "user-avatar",
+      "description": "User avatar in the header",
+      "imageUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjE4ODIwMzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "dashboard-card-1",
+      "description": "Close up of a plant leaf for crop disease card",
+      "imageUrl": "https://images.unsplash.com/photo-1598531402973-61a7a963b9e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwbGFudCUyMGxlYWZ8ZW58MHx8fHwxNzYxODQyMDkwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "plant leaf"
+    },
+    {
+      "id": "dashboard-card-2",
+      "description": "A healthy cow in a field for livestock care card",
+      "imageUrl": "https://images.unsplash.com/photo-1715547432707-81242e8405bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y293JTIwZmllbGR8ZW58MHx8fHwxNzYxODc3NjMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cow field"
+    },
+    {
+      "id": "dashboard-card-3",
+      "description": "A bustling market with fresh produce for market insights card",
+      "imageUrl": "https://geographicbook.com/wp-content/uploads/2024/08/Major-Crop-Regions-in-India.jpeg",
+      "imageHint": "fruit market"
+    },
+{
+  "id": "dashboard-card-4",
+  "description": "A hand holding soil with a sensor in it for IoT monitoring card",
+  "imageUrl": "/images/Screenshot 2025-11-15 113359.png",
+  "imageHint": "soil sensor"
+},
+{
+      "id": "dashboard-card-5",
+      "description": "Government building for schemes card",
+      "imageUrl":" https://www.thestatesman.com/wp-content/uploads/2023/01/modi.jpg",
+      "imageHint": "government building"
+    },
+    {
+      "id": "dashboard-card-6",
+      "description": "People shaking hands at a market for traders card",
+      "imageUrl": "https://img.freepik.com/premium-photo/bustling-market-scene-with-people-buying-selling-variety-goods-market-is-full-color-life_14117-542621.jpg",
+      "imageHint": "market handshake"
+    },
+    {
+      "id": "crop-placeholder",
+      "description": "A placeholder for a user-uploaded crop image.",
+      "imageUrl": "https://images.unsplash.com/photo-1720302776375-65bba365e15e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjcm9wJTIwZmllbGR8ZW58MHx8fHwxNzYxODkwMjE3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "crop field"
+    },
+    {
+      "id": "livestock-placeholder",
+      "description": "A placeholder for a user-uploaded livestock image.",
+      "imageUrl": "https://images.unsplash.com/photo-1535275226173-7ee8b465f0c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxmYXJtJTIwYW5pbWFsfGVufDB8fHx8MTc2MTgwNDEyN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "farm animal"
+    }
+  ]
+}
