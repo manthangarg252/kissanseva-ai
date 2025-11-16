@@ -3,6 +3,33 @@ import { ArrowRight } from "lucide-react";
 import Link from "next/link";
 import type { LucideIcon } from "lucide-react";
 
+
+export default function Dashboard() {
+  const dummyWeather = {
+    location: "Kurukshetra",
+    temp: 28,
+    condition: "partly cloudy",
+    humidity: 62,
+    wind: 12,
+    feelsLike: 30,
+  };
+
+  return (
+    <div className="space-y-4">
+      <Card className="w-full">
+        <CardHeader>
+          <CardTitle className="text-lg font-semibold">Weather — {dummyWeather.location}</CardTitle>
+        </CardHeader>
+        <CardContent>
+          <p className="text-sm">Temperature: {dummyWeather.temp}°C (feels like {dummyWeather.feelsLike}°C)</p>
+          <p className="text-sm">Condition: {dummyWeather.condition}</p>
+          <p className="text-sm">Humidity: {dummyWeather.humidity}% • Wind: {dummyWeather.wind} km/h</p>
+        </CardContent>
+      </Card>
+    </div>
+  );
+}
+
 interface DashboardCardProps {
   title: string;
   description: string;
